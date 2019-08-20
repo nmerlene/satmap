@@ -2,7 +2,11 @@
 
 Plots the current locations of GNSS satellites in the sky.
 
+`Polar Elevation/Azimuth (using location from IP address)`
+
 ![Polar Azel](sample-polar-azel.png)
+
+`Ground Tracks`
 
 ![Ground Tracks](sample-ground-track.png)
 
@@ -32,9 +36,6 @@ dependencies by executing the following command:
 ```bash
 $ conda env create -f env_satmap.yml
 ```
-
-Alternatively, if you are a pip `requirements.txt` file is also provided if you wish to install 
-the necessary packages via `pip`.
 
 ## Install Package
 
