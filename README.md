@@ -1,5 +1,11 @@
 # About
 
+Plots the current locations of GNSS satellites in the sky.
+
+![Polar Azel](sample-polar-azel.png)
+
+![Ground Tracks](sample-ground-track.png)
+
 # To Download
 
 ```bash
