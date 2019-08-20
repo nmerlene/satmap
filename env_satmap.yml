@@ -1,0 +1,16 @@
+name: env_satmap
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.7
+- astropy
+- pyephem
+- numpy
+- matplotlib
+- basemap
+- pillow
+- ipython
+- jupyter
+- pylint
+- nose

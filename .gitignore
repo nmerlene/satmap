@@ -1,0 +1,6 @@
+# ignore these, never commit
+.ipynb_checkpoints
+*.egg-info
+tmp
+*.pyc
+.idea
