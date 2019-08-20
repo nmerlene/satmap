@@ -45,6 +45,12 @@ Finally, `pip` install the `satmap` package:
 $ pip install .
 ```
 
+## To Use
+
+```bash
+$ plot_sats -h
+```
+
 ## To Test
 
 Put stuff about future unit tests here.
